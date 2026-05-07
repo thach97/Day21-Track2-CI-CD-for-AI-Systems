@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/thachhn3/Work/AI20K/fork/Day21-Track2-CI-CD-for-AI-Systems/mlruns/0/51143c0b55894d09b1e6b259eff349ed/artifacts
+end_time: 1778162330723
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 51143c0b55894d09b1e6b259eff349ed
+run_name: puzzled-mare-988
+run_uuid: 51143c0b55894d09b1e6b259eff349ed
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1778162328666
+status: 3
+tags: []
+user_id: thachhn3
